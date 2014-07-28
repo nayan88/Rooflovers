@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>    
-    <title> Reef Lovers Aquarium </title>
+    <title> Reef Lovers Update HTML </title>
    
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1.0">
